@@ -1,0 +1,31 @@
+.indexpainter{
+    display: grid;
+    grid-gap: 0px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: 112px;
+    grid-auto-flow:dense;
+    
+} 
+.horizon{
+	grid-column: auto/span 2;
+}
+.ver{
+	grid-row: span 2;
+}
+.big{
+	grid-column: span 2;
+	grid-row: span 2;
+}
+h4 {
+	font: normal 18px/18px 'rainbow', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	margin: 0 0 0px;
+}
+.without{
+	text-align: center;
+	
+}
+.public{
+	text-align: center;
+    color:rgb(0,0,0);
+    font-size: 27px;
+}

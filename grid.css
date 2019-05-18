@@ -1,0 +1,42 @@
+
+.indexpainter{
+    display: grid;
+    grid-gap: 0px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-rows: 112px;
+    grid-auto-flow:dense;
+    
+} 
+.horizon{
+	grid-column: auto/span 2;
+}
+.ver{
+	grid-column:span 2;
+	grid-row: span 4;
+}
+.big{
+	grid-column: span 2;
+	grid-row: span 2;
+}
+.small{
+	grid-column: span 1;
+	grid-row: span 2;
+	margin-right: 5px;
+}
+
+.small:hover{
+	transform: scale(1.05);
+}
+
+.heading{
+	text-align: center;
+	font-size: 22px;
+	text-decoration:double underline;
+	color: rgb(30,30,30);
+	padding: 10px;
+}
+
+.google_vision{
+	text-align: center;
+
+}

@@ -1,0 +1,46 @@
+
+th {
+text-align:center;
+background-color:#555;
+color:#fff;
+padding:4px;
+font-weight:normal;
+font-size:12px;
+}
+td {
+font-size:12px;
+padding:3px;
+text-align:left;
+}
+tr {background: #fff}
+tr:nth-child(odd) {background: #f0f0f0}
+
+.pager,.pager a {
+background-color:#555;
+color:#fff;
+padding:3px;
+}
+.lhead {
+background-color:#fff;
+padding:3px;
+font-weight:bold;
+font-size:16px;
+}
+.lpart {
+background-color:#f0f0f0;
+padding:0px;
+}
+.lpage {
+font:normal 11px "Open Sans";
+}
+.lcount {
+background-color:#555;
+color:#fff;
+padding:2px;
+margin:2px;
+font:bold 11px "Open Sans";
+}
+a.aemphasis {
+color:#000;
+font-weight:bold;
+}
