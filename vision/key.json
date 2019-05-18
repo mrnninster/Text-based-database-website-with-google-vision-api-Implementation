@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "studied-union-234915",
-  "private_key_id": "6f93443cba68cdcb96ff7f4ee595875d50253577",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClUkpLnAvDK4ZH\ndZiUeBDXzz8V2FWSSAWCiAkICCOm3OdkbZMuOgJjm3pkAVkx0QnzceWvabY4it/L\nHpZvnRQtj10OsatQ9R6nu7tQVmktWplOwKXn5rdLdSZCFd8BQKeKg7pgC1hqqtsH\nEJoYVIWAfQdQjg60MJSw7BCiICb4kSMpMQ+GE/My6hPIbTEbYFbCBeY09u/OaWK+\nee8ciRP2owruDhW4+DoMCHCFqocG5FgUOsfheWrfMkM7Br/QV9Iwbz5w1eZ0WpTN\nc5sQS0yVlulGsaxI4m8jSlBNLVQkydSswnUps95ccHSgMBwpZuusbSzLYZOzyP/p\nrKMCOvmtAgMBAAECggEAAYDGhnp0Nuw0i9NwtYTZQ6+xgfgrYFRBoeatDQLPRCtE\n+p+ZE3YD4zZHfhTvDn9j3kU+UoJyXYA8ZE3dDfBj0xLhxIpD+vfyNTyFNEfyK9nj\ng+5Hc9zKn30rVwrOMhDi6mT5MvoCGJzWDJyPh2zD9p+XC0Scs0cFIGNSYWRLxmho\n95/5Yxw8kaxULbCLBxh6j1FrY/oy9/hDwxwkqGrPDT3pzUIj9hKmOD44ZVN7Wrez\nr3ycaNudqStj6flzDWj0liIUl7D6T0wdKUbzpC3GzsyX4tpMM8JeGSneDeVlTY+l\ns1kPWFA6z+Hr/2irSn5glXb/T9GXkAlHUROQt2LDdwKBgQDknRUfwv42EloSs8N8\nIQA+lwvXnGWCx0oGXlLg2NYlDytK1oDCSyecdGmRBwd4yZ1vSpnYYvzWiZUpeaHH\nUjpAqZbmT5zYo7g34+l729YIUvxZBcXeB88UUCbN3J5QH0GUdCZrGv2gDyWZgzOG\ndMJLrOg7Y9Q/dJytDqS7g55XkwKBgQC5IDhueP0ZnMZ9hzZ3nyS8YbHJQHOETLJ8\n8I5FhSnRBY7ux03JWRKVnk5TVk1n81pbWgHLarY3VfMjVmYIhY82Zx9au/A6Tw5L\naj4uL8RmUC4j7uwRiqi4MFDjJBo1YNqz8T9Lj9x//X3kfrtoKhSD/tcH00rbGhOc\nPrBYOimxvwKBgGxhxEgAi8BaxvUi4ESS6KjDt0uKy91KWd/XC/epFS0Qmfeq5fQ2\n6RqVXg7xhCtReh/vACzEERYst9in33i9lPxe6jlZ+QQD6iwlEuYzfK8JmLUjtYDj\nttrsfNkQBMX7a33T6vrQGvms9KhouR6/b/WsjZTKaS+EO1sYHCUB6ymdAoGAMkiP\nK2qPjMppm6UDZWCDsOt0R+7Ksa/Hd2o7qqRt5El3NmJKPZuFEcCrE7XIVqjh7Rg4\njpEQp10gKoQION5WNPezq4iKyru4bUGRXCg7V3MF5Vq7IlSgWU8+WUPwHnmNTf0E\nLTkJMnafIFZP/w4W/ndU3tpEZdjiZLkeWwiJVK8CgYEAiju0E4qWNk2iVoa+5s9H\ncZHdwzm35JO9xBzpbXOkHtBJTvy9gCMm9Og8+1oDVLtv9ROcs8Qxg5YQXjGWGjTu\nzBgraXpprC50leY1oOBorke+sRZ44LCfpGzNRiF+clwH5YS3v3nxn6XWPdBMs7P7\nAH6ptEtR8TCrqnx+11RtuyI=\n-----END PRIVATE KEY-----\n",
-  "client_email": "akinsolaadefolahan@gmail.com",
-  "client_id": "109709976098716949488",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/justusingphp%40studied-union-234915.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
