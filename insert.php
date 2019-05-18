@@ -1,12 +1,12 @@
 <!doctype>
 <html>
 <div style="background-color:rgb(255,190,102); padding:0px; margin:0px; width:1095px; height:auto; width: auto,">
-<p style="font-size:40px;" align="center"><b>Insert New Item</b></p>
+<p style="font-size:40px;" align="center"><b>Insert New Images</b></p>
 <form method="post" action="upload.php" align="center"  enctype="multipart/form-data">
 <table align="center" border="2">
 <tr style="font-size:30px; color:red;   border-bottom:5px black groove;">
-        		<th width="35%">FORM</th>
-        		<th width="65%">ITEM DETAILS</th>
+        		<th width="35%">IMAGE</th>
+        		<th width="65%">IMAGE PATH</th>
 </tr>
 <tr>
 <td align="center">
