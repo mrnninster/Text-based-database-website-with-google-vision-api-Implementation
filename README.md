@@ -1,6 +1,5 @@
 # fisher
-first text database website
-This is a website with a textfile for database
+This is a website with a text file its for database
 The formmat for entering the detail in the text is
 -A sha512 hash of the reverse the name 
 -the name
