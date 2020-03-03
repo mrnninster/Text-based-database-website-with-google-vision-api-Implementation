@@ -1,4 +1,4 @@
-# Googlr Face Recognition Api Implementation
+# Google Face Recognition Api Implementation
 This is a website with a text file its for database
 The formmat for entering the detail in the text is
 -A sha512 hash of the reverse the name 
